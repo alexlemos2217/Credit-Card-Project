@@ -113,6 +113,8 @@ input{
     font-size: 1.1rem;
     outline: 0;
     width: 90%;
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
 
 input[type="text"]:focus {
@@ -124,7 +126,6 @@ input#valid-thru-text, input#cvv-text{
 }
 
 input[type="submit"] {
-    margin-top: 20px;
     width: 95%;
     background-color: #008CB1;
     cursor: pointer;
